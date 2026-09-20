@@ -976,7 +976,7 @@ function PatternsPage({
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/analyze",
+        "http://https://kobeity.onrender.com/api/analyze",
         {
           method: "POST",
           headers: {
@@ -2425,7 +2425,7 @@ function ResourcesPage() {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/resources/search",
+        "http://https://kobeity.onrender.com/api/resources/search",
         {
           method: "POST",
 
@@ -2500,7 +2500,7 @@ function ResourcesPage() {
 
   try {
     const response = await fetch(
-      "http://localhost:5000/api/resources/search",
+      "http://https://kobeity.onrender.com/api/resources/search",
       {
         method: "POST",
         headers: {
