@@ -5,7 +5,8 @@
 Kobeity is a web application designed to help users record personal experiences, identify recurring patterns, prepare for professional conversations, and access reliable educational resources.
 
 The application focuses on self-reflection and self-advocacy rather than diagnosis.
-
+TO RUN:- in one terminal :npm run dev 
+second terminal inside server folder : node server.js
 ---
 
 ## Features
